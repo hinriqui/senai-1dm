@@ -1,0 +1,20 @@
+programa {
+	funcao inicio() {
+		escreva("Pega essa fibonacci.\n")
+
+            inteiro n1 = 0
+            inteiro n2 = 1
+            inteiro n3
+
+            escreva(n1 + "\n" + n2 + "\n")
+
+            faca
+            {
+                n3 = n2 + n1
+                escreva(n3 + "\n")
+                n1 = n2
+                n2 = n3
+
+            } enquanto (n3 <= 500)
+	}
+}

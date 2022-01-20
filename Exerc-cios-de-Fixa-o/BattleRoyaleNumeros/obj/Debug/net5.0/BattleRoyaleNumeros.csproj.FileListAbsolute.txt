@@ -1,0 +1,16 @@
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosFixação\BattleRoyaleNumeros\bin\Debug\net5.0\BattleRoyaleNumeros.exe
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosFixação\BattleRoyaleNumeros\bin\Debug\net5.0\BattleRoyaleNumeros.deps.json
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosFixação\BattleRoyaleNumeros\bin\Debug\net5.0\BattleRoyaleNumeros.runtimeconfig.json
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosFixação\BattleRoyaleNumeros\bin\Debug\net5.0\BattleRoyaleNumeros.runtimeconfig.dev.json
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosFixação\BattleRoyaleNumeros\bin\Debug\net5.0\BattleRoyaleNumeros.dll
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosFixação\BattleRoyaleNumeros\bin\Debug\net5.0\ref\BattleRoyaleNumeros.dll
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosFixação\BattleRoyaleNumeros\bin\Debug\net5.0\BattleRoyaleNumeros.pdb
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosFixação\BattleRoyaleNumeros\obj\Debug\net5.0\BattleRoyaleNumeros.csprojAssemblyReference.cache
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosFixação\BattleRoyaleNumeros\obj\Debug\net5.0\BattleRoyaleNumeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosFixação\BattleRoyaleNumeros\obj\Debug\net5.0\BattleRoyaleNumeros.AssemblyInfoInputs.cache
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosFixação\BattleRoyaleNumeros\obj\Debug\net5.0\BattleRoyaleNumeros.AssemblyInfo.cs
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosFixação\BattleRoyaleNumeros\obj\Debug\net5.0\BattleRoyaleNumeros.csproj.CoreCompileInputs.cache
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosFixação\BattleRoyaleNumeros\obj\Debug\net5.0\BattleRoyaleNumeros.dll
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosFixação\BattleRoyaleNumeros\obj\Debug\net5.0\ref\BattleRoyaleNumeros.dll
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosFixação\BattleRoyaleNumeros\obj\Debug\net5.0\BattleRoyaleNumeros.pdb
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosFixação\BattleRoyaleNumeros\obj\Debug\net5.0\BattleRoyaleNumeros.genruntimeconfig.cache

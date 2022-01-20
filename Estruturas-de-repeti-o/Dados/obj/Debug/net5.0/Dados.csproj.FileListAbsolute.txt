@@ -1,0 +1,16 @@
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ListaExercícios\Dados\obj\Debug\net5.0\Dados.csprojAssemblyReference.cache
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ListaExercícios\Dados\obj\Debug\net5.0\Dados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ListaExercícios\Dados\obj\Debug\net5.0\Dados.AssemblyInfoInputs.cache
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ListaExercícios\Dados\obj\Debug\net5.0\Dados.AssemblyInfo.cs
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ListaExercícios\Dados\obj\Debug\net5.0\Dados.csproj.CoreCompileInputs.cache
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ListaExercícios\Dados\bin\Debug\net5.0\Dados.exe
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ListaExercícios\Dados\bin\Debug\net5.0\Dados.deps.json
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ListaExercícios\Dados\bin\Debug\net5.0\Dados.runtimeconfig.json
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ListaExercícios\Dados\bin\Debug\net5.0\Dados.runtimeconfig.dev.json
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ListaExercícios\Dados\bin\Debug\net5.0\Dados.dll
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ListaExercícios\Dados\bin\Debug\net5.0\ref\Dados.dll
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ListaExercícios\Dados\bin\Debug\net5.0\Dados.pdb
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ListaExercícios\Dados\obj\Debug\net5.0\Dados.dll
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ListaExercícios\Dados\obj\Debug\net5.0\ref\Dados.dll
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ListaExercícios\Dados\obj\Debug\net5.0\Dados.pdb
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ListaExercícios\Dados\obj\Debug\net5.0\Dados.genruntimeconfig.cache

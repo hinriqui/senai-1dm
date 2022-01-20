@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "JogadorVelho/1.0.0": {
+        "runtime": {
+          "JogadorVelho.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "JogadorVelho/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

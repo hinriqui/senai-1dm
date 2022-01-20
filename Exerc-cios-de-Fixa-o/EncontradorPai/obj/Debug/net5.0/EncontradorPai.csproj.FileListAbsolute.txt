@@ -1,0 +1,16 @@
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosFixação\EncontradorPai\bin\Debug\net5.0\EncontradorPai.exe
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosFixação\EncontradorPai\bin\Debug\net5.0\EncontradorPai.deps.json
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosFixação\EncontradorPai\bin\Debug\net5.0\EncontradorPai.runtimeconfig.json
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosFixação\EncontradorPai\bin\Debug\net5.0\EncontradorPai.runtimeconfig.dev.json
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosFixação\EncontradorPai\bin\Debug\net5.0\EncontradorPai.dll
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosFixação\EncontradorPai\bin\Debug\net5.0\ref\EncontradorPai.dll
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosFixação\EncontradorPai\bin\Debug\net5.0\EncontradorPai.pdb
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosFixação\EncontradorPai\obj\Debug\net5.0\EncontradorPai.csprojAssemblyReference.cache
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosFixação\EncontradorPai\obj\Debug\net5.0\EncontradorPai.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosFixação\EncontradorPai\obj\Debug\net5.0\EncontradorPai.AssemblyInfoInputs.cache
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosFixação\EncontradorPai\obj\Debug\net5.0\EncontradorPai.AssemblyInfo.cs
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosFixação\EncontradorPai\obj\Debug\net5.0\EncontradorPai.csproj.CoreCompileInputs.cache
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosFixação\EncontradorPai\obj\Debug\net5.0\EncontradorPai.dll
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosFixação\EncontradorPai\obj\Debug\net5.0\ref\EncontradorPai.dll
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosFixação\EncontradorPai\obj\Debug\net5.0\EncontradorPai.pdb
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosFixação\EncontradorPai\obj\Debug\net5.0\EncontradorPai.genruntimeconfig.cache

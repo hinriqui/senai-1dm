@@ -1,0 +1,60 @@
+@model Jogador
+@{
+    ViewData["Title"] = "Jogadores";
+}
+
+<div class="titulo_pagina">
+    <h1>Cadastro de @ViewData["Title"]</h1>
+</div>
+
+<form class="cadastro" method="POST" action='@Url.Action("Cadastrar")' enctype="multipart/form-data">
+    <div class="campo">
+        <label>ID Jogador</label>
+        <input type="text" name="IdJogador">
+    </div>
+
+    <div class="campo">
+        <label>Id Equipe</label>
+        <input type="text" name="IdEquipe">
+    </div>
+
+    <div class="campo">
+        <label>Nome</label>
+        <input type="text" name="Nome">
+    </div>
+
+    <div class="campo">
+        <label>Email</label>
+        <input type="text" name="Email">
+    </div>
+
+    <div class="campo">
+        <label>Senha</label>
+        <input type="text" name="Senha">
+    </div>
+
+    <button class="gradient btn" type="submit">Cadastrar</button>
+</form>
+
+<table class="table table-striped table-responsive">
+
+    <thead>
+        <th>Id</th>
+        <th>Nome</th>
+        <th>Email</th>
+    </thead>
+
+    <tbody>
+        @foreach (var item in ViewBag.Jogadores)
+        {
+            <tr>
+                <td>@item.IdJogador</td>
+                <td>@item.Nome</td>
+                <td>@item.Email</td>
+                <td><a asp-area="" asp-controller="Jogador" asp-action="Excluir" asp-route-id="@item.IdJogador"> <img src="/Images/icons8-lixo.svg" alt="Excluir jogador"> </a>
+                </td>
+            </tr>
+        }
+    </tbody>
+
+</table>

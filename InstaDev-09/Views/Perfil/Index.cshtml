@@ -1,0 +1,145 @@
+@using Microsoft.AspNetCore.Http
+@{
+    ViewData["Title"] = "Página Perfil";
+    Usuario u = new Usuario();
+
+    ViewBag.PostPerfil.Reverse();
+    Usuario User = u.UsuarioSessao(ViewBag.User);
+}
+
+<div class="container">
+
+    <section class="container_perfil">
+        <img src="~/images/perfis/@User.Foto" alt="Foto de Perfil">
+
+        <div class="informacoes_perfil">
+
+            <h1 class="username_perfil">@User.Username</h1>
+
+            <div class="informacoes_usuario">
+                <span> @ViewBag.PostPerfil.Count publicações</span>
+                <span>128 seguindo</span>
+                <span>214 seguidores</span>
+            </div>
+
+            <div class="informacoes_usuario_embaixo">
+                <span class="nome_de_usuario">@User.Nome</span>
+                <a asp-area="" asp-controller="EdicaoPerfil" asp-action="Index">Editar Perfil</a>
+                <a asp-area="" asp-controller="Home" asp-action="Index">Sair</a>
+            </div>
+        </div>
+
+    </section>
+
+    <hr>
+
+    <section class="container_feed">
+
+        <div class="titulo_publicacoes">
+            <img src="img/Quadrado_Publicacoes.png" alt="Objeto de publicações">
+            <h2>Publicações</h2>
+        </div>
+
+        @foreach (var item in ViewBag.PostPerfil)
+        {
+
+            <div class="post_perfil_">
+
+                <div class="imagem_post">
+                    <img src="images/posts/@item.Imagem" alt="Foto postada">
+                </div>
+
+                <div class="conteudo_post">
+
+
+                    <div class="descricao_usuario_post">
+                        <img src="images/perfis/@item.Foto" alt="Imagem perfil">
+
+                        <div class="texto_descricao_usuario_post">
+                            <span class="username_post">@item.Nome</span>
+                            <span class="local_post">São Paulo, SP</span>
+                        </div>
+                    </div>
+
+
+                    <div class="curtidas_comentarios">
+                        <div>
+                            <img src="img/Curtidas.png" alt="Curtidas">
+                            <img class="img_comentarios" src="img/Comentarios.png" alt="Comentarios">
+                        </div>
+
+                        <span>1954 curtidas</span>
+                    </div>
+
+                    <div class="caixa_comentarios">
+                        <div class="conteudo_comentarios">
+                            <div class="textos_comentarios">
+                                <div>
+                                    <span class="nome_comentarios">@item.Username</span>
+                                </div>
+                                <div>
+                                    <span class="comentarios">@item.Descricao</span>
+                                </div>
+                            </div>
+                            <img src="img/Curtidas_Comentários.png" alt="Curtidas Comentarios">
+                        </div>
+
+                        <div class="conteudo_comentarios">
+                            <div class="textos_comentarios">
+                                <div>
+                                    <span class="nome_comentarios">obotdaliviaoficial</span>
+                                </div>
+                                <div>
+                                    <span class="comentarios">KKKKKKKKKKKK</span>
+                                </div>
+                            </div>
+                            <img src="img/Curtidas_Comentários.png" alt="Curtidas Comentarios">
+                        </div>
+
+                        <div class="conteudo_comentarios">
+                            <div class="textos_comentarios">
+                                <div>
+                                    <span class="nome_comentarios">MCTelesOFICIAL</span>
+                                </div>
+                                <div>
+                                    <span class="comentarios">mó cocão em novinha🔥</span>
+                                </div>
+                            </div>
+                            <img src="img/Curtidas_Comentários.png" alt="Curtidas Comentarios">
+                        </div>
+
+                        <div class="conteudo_comentarios">
+                            <div class="textos_comentarios">
+                                <div>
+                                    <span class="nome_comentarios">hinriqui</span>
+                                </div>
+                                <div>
+                                    <span class="comentarios">baby baby🎵</span>
+                                </div>
+                            </div>
+                            <img src="img/Curtidas_Comentários.png" alt="Curtidas Comentarios">
+                        </div>
+
+                        <div class="conteudo_comentarios">
+        
+                            <div class="textos_comentarios">
+                                <div>
+                                    <span class="nome_comentarios">lino</span>
+                                </div>
+                                <div>
+                                    <span class="comentarios">VOCÊ FOI PRESENTEADO COM R$10.000,00 - ACESSE --> <a>www.clonacartao.com</a></span>
+                                </div>
+                            </div>
+                            <img src="img/Curtidas_Comentários.png" alt="Curtidas Comentarios">
+
+                        </div>
+
+                        <button class="ver_comentarios">Ver todos os 585 comentários</button>
+                    </div>
+                </div>
+            </div>
+
+        }
+
+    </section>
+</div>

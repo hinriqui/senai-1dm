@@ -1,0 +1,29 @@
+CONVERSOR DE ANOS
+
+programa {
+    inteiro qntdAnos
+    inteiro qntdMeses
+    inteiro qntdDias
+    inteiro qntdHoras
+    inteiro qntdMin
+    inteiro qntdSeg
+    
+	funcao inicio() {
+    escreva("Quantos anos você tem?" + "\n")
+    leia(qntdAnos)
+
+    qntdMeses = qntdAnos * 12
+    qntdDias = qntdMeses * 30
+    qntdHoras = qntdDias * 24
+    qntdMin = qntdHoras * 60
+    qntdSeg = qntdMin * 60
+
+    escreva("Se você acha pouco pense nisso... " + qntdAnos + " anos equivalem a: " + "\n")
+
+    escreva(qntdMeses + " meses" + "\n")
+    escreva(qntdDias + " dias" + "\n")
+    escreva(qntdHoras + " horas" + "\n")
+    escreva(qntdMin + " minutos" + "\n")
+    escreva(qntdSeg + " segundos" + "\n")
+	}
+}

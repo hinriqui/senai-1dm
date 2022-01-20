@@ -1,0 +1,23 @@
+NADADORES ANÔNIMOS
+programa {
+    inteiro idade
+    
+	funcao inicio() {
+	escreva("Quantos anos você tem?" + "\n")
+    leia(idade)
+
+    se (idade > 17)
+        escreva("Categoria Senior")
+    senao
+        se (idade > 13)
+            escreva("Juvenil B")
+        senao
+            se (idade > 10)
+                escreva("Juvenil A")
+            senao
+                se (idade > 7)
+                    escreva("Infantil B")
+                senao
+                    escreva("Infantil A")
+	}
+}

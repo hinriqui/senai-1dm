@@ -1,0 +1,16 @@
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosFixação\KingTabuada\bin\Debug\net5.0\KingTabuada.exe
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosFixação\KingTabuada\bin\Debug\net5.0\KingTabuada.deps.json
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosFixação\KingTabuada\bin\Debug\net5.0\KingTabuada.runtimeconfig.json
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosFixação\KingTabuada\bin\Debug\net5.0\KingTabuada.runtimeconfig.dev.json
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosFixação\KingTabuada\bin\Debug\net5.0\KingTabuada.dll
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosFixação\KingTabuada\bin\Debug\net5.0\ref\KingTabuada.dll
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosFixação\KingTabuada\bin\Debug\net5.0\KingTabuada.pdb
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosFixação\KingTabuada\obj\Debug\net5.0\KingTabuada.csprojAssemblyReference.cache
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosFixação\KingTabuada\obj\Debug\net5.0\KingTabuada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosFixação\KingTabuada\obj\Debug\net5.0\KingTabuada.AssemblyInfoInputs.cache
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosFixação\KingTabuada\obj\Debug\net5.0\KingTabuada.AssemblyInfo.cs
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosFixação\KingTabuada\obj\Debug\net5.0\KingTabuada.csproj.CoreCompileInputs.cache
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosFixação\KingTabuada\obj\Debug\net5.0\KingTabuada.dll
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosFixação\KingTabuada\obj\Debug\net5.0\ref\KingTabuada.dll
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosFixação\KingTabuada\obj\Debug\net5.0\KingTabuada.pdb
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosFixação\KingTabuada\obj\Debug\net5.0\KingTabuada.genruntimeconfig.cache

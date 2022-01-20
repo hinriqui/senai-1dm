@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ProjetoFeira/1.0.0": {
+        "runtime": {
+          "ProjetoFeira.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProjetoFeira/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

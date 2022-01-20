@@ -1,0 +1,18 @@
+programa {
+	funcao inicio() {
+		inteiro numero
+	    logico resposta
+	    faca{
+	        escreva("Digite um numero de 0 a 10" + "\n")
+	        leia(numero)
+	        se (numero <= 10 e numero >=0) {
+                resposta = verdadeiro
+                
+            } senao {
+               resposta = falso
+            }
+	   }enquanto (resposta = false)
+	        
+        escreva("Programa concluído")
+	}
+}

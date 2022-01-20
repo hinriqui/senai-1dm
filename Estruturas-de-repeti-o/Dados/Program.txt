@@ -1,0 +1,99 @@
+programa {
+	funcao inicio() {
+		    logico validade = falso
+            caractere nome, estadoCivil
+            inteiro idade
+            real salario
+
+            faca
+            {
+                escreva("Nome : ")
+                leia(nome)
+                se (caractere.VazioOuNulo(nome))
+                {
+                    escreva("Valor inválseaca" + "\n")
+                }
+                senao
+                {
+                    escreva("Valor válseaca" + "\n")
+                    validade = true
+                }
+            }
+            enquanto (validade == falso)
+            validade = falso
+
+            faca
+            {
+                escreva("Idade : ")
+                (leia(idade)
+                se (idade < 0 || idade > 150)
+                {
+                    escreva("Valor inválseaca" + "\n")
+                }
+                senao
+                {
+                    escreva("Valor válseaca" + "\n")
+                    validade = true
+                }
+            }
+            enquanto (validade == falso)
+            validade = falso
+
+            faca
+            {
+                escreva("Salário : ")
+                leia(salario)
+                se (salario <= 0)
+                {
+                    escreva("Valor inválseaca" + "\n")
+                }
+                senao
+                {
+                    escreva("Valor válseaca" + "\n")
+                    validade = true
+                }
+            }
+            enquanto (validade == falso)
+            validade = falso
+
+            faca
+            {
+                escreva("Estado civil : ")
+                leia(estadoCivil).Minusculas.Subcaracteres(0, 1)
+
+                escolha (estadoCivil)
+                {
+                    caso "c":
+                        estadoCivil = "Casafaca(a)"
+                        escreva("Valor válseaca" + "\n")
+                        validade = true
+                        fim-caso
+                        
+                    caso "s":
+                        estadoCivil = "Solteiro(a)"
+                        escreva("Valor válseaca" + "\n")
+                        validade = true
+                        fim-caso
+                        
+                    caso "v":
+                        estadoCivil = "Viúvo(a)"
+                        escreva("Valor válseaca" + "\n")
+                        validade = true
+                        fim-caso
+                        
+                    caso "d":
+                        estadoCivil = "Divorciafaca(a)"
+                        escreva("Valor válseaca" + "\n")
+                        validade = true
+                        fim-caso
+                        
+                    default:
+                        escreva("Valor inválseaca" + "\n")
+                        fim-caso
+                }
+            }
+            enquanto (validade == falso)
+
+            escreva("\nNome: " + nome + "\nIdade: " + idade + "\nSalário: R$ " + salario + "\nEstado Civil: " + estadoCivil)
+	}
+}

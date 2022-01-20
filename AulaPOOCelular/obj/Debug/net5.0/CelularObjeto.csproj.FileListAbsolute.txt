@@ -1,0 +1,16 @@
+C:\Users\Henrique\.vscode\codes\Back-end\C#\CelularObjeto\bin\Debug\net5.0\CelularObjeto.exe
+C:\Users\Henrique\.vscode\codes\Back-end\C#\CelularObjeto\bin\Debug\net5.0\CelularObjeto.deps.json
+C:\Users\Henrique\.vscode\codes\Back-end\C#\CelularObjeto\bin\Debug\net5.0\CelularObjeto.runtimeconfig.json
+C:\Users\Henrique\.vscode\codes\Back-end\C#\CelularObjeto\bin\Debug\net5.0\CelularObjeto.runtimeconfig.dev.json
+C:\Users\Henrique\.vscode\codes\Back-end\C#\CelularObjeto\bin\Debug\net5.0\CelularObjeto.dll
+C:\Users\Henrique\.vscode\codes\Back-end\C#\CelularObjeto\bin\Debug\net5.0\ref\CelularObjeto.dll
+C:\Users\Henrique\.vscode\codes\Back-end\C#\CelularObjeto\bin\Debug\net5.0\CelularObjeto.pdb
+C:\Users\Henrique\.vscode\codes\Back-end\C#\CelularObjeto\obj\Debug\net5.0\CelularObjeto.csprojAssemblyReference.cache
+C:\Users\Henrique\.vscode\codes\Back-end\C#\CelularObjeto\obj\Debug\net5.0\CelularObjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Henrique\.vscode\codes\Back-end\C#\CelularObjeto\obj\Debug\net5.0\CelularObjeto.AssemblyInfoInputs.cache
+C:\Users\Henrique\.vscode\codes\Back-end\C#\CelularObjeto\obj\Debug\net5.0\CelularObjeto.AssemblyInfo.cs
+C:\Users\Henrique\.vscode\codes\Back-end\C#\CelularObjeto\obj\Debug\net5.0\CelularObjeto.csproj.CoreCompileInputs.cache
+C:\Users\Henrique\.vscode\codes\Back-end\C#\CelularObjeto\obj\Debug\net5.0\CelularObjeto.dll
+C:\Users\Henrique\.vscode\codes\Back-end\C#\CelularObjeto\obj\Debug\net5.0\ref\CelularObjeto.dll
+C:\Users\Henrique\.vscode\codes\Back-end\C#\CelularObjeto\obj\Debug\net5.0\CelularObjeto.pdb
+C:\Users\Henrique\.vscode\codes\Back-end\C#\CelularObjeto\obj\Debug\net5.0\CelularObjeto.genruntimeconfig.cache

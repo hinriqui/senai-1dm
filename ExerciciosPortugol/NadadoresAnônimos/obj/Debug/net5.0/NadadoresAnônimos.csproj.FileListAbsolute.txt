@@ -1,0 +1,16 @@
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosPortugol\NadadoresAnônimos\bin\Debug\net5.0\NadadoresAnônimos.exe
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosPortugol\NadadoresAnônimos\bin\Debug\net5.0\NadadoresAnônimos.deps.json
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosPortugol\NadadoresAnônimos\bin\Debug\net5.0\NadadoresAnônimos.runtimeconfig.json
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosPortugol\NadadoresAnônimos\bin\Debug\net5.0\NadadoresAnônimos.runtimeconfig.dev.json
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosPortugol\NadadoresAnônimos\bin\Debug\net5.0\NadadoresAnônimos.dll
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosPortugol\NadadoresAnônimos\bin\Debug\net5.0\ref\NadadoresAnônimos.dll
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosPortugol\NadadoresAnônimos\bin\Debug\net5.0\NadadoresAnônimos.pdb
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosPortugol\NadadoresAnônimos\obj\Debug\net5.0\NadadoresAnônimos.csprojAssemblyReference.cache
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosPortugol\NadadoresAnônimos\obj\Debug\net5.0\NadadoresAnônimos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosPortugol\NadadoresAnônimos\obj\Debug\net5.0\NadadoresAnônimos.AssemblyInfoInputs.cache
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosPortugol\NadadoresAnônimos\obj\Debug\net5.0\NadadoresAnônimos.AssemblyInfo.cs
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosPortugol\NadadoresAnônimos\obj\Debug\net5.0\NadadoresAnônimos.csproj.CoreCompileInputs.cache
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosPortugol\NadadoresAnônimos\obj\Debug\net5.0\NadadoresAnônimos.dll
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosPortugol\NadadoresAnônimos\obj\Debug\net5.0\ref\NadadoresAnônimos.dll
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosPortugol\NadadoresAnônimos\obj\Debug\net5.0\NadadoresAnônimos.pdb
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosPortugol\NadadoresAnônimos\obj\Debug\net5.0\NadadoresAnônimos.genruntimeconfig.cache

@@ -1,0 +1,77 @@
+@{
+    ViewData["Title"] = "Edição Perfil";
+    Usuario u = new Usuario();
+
+    Usuario User = u.UsuarioSessao(ViewBag.User);
+}
+
+<main class="container">
+    <div class="Main">
+        <section class="EdicaoEsquerda">
+            <div>
+                <h1 class="EditarPerfil">Editar Perfil</h1>
+            </div>
+        </section>
+
+        <div class="EdicaoDireita">
+            <form method="POST" action='@Url.Action("AlterarImagem")' enctype="multipart/form-data">
+                <div class="AlteraçãoPerfil">
+                    <input hidden id="img_perfil" name="Imagem" type="file">
+
+                    <label class="FotoPerfil" for="img_perfil">
+                        <img src="~/images/perfis/@User.Foto" alt="Sua foto de perfil">
+                    </label>
+
+                    <div class="TextoPerfil">
+                        <h2 class="NomePerfil">@User.Username</h2>
+                        <input type="submit" value="Alterar foto de perfil" class="AlterarPerfil">
+                    </div>
+                </div>
+            </form>
+
+
+
+            <form method="POST" action='@Url.Action("Editar")'>
+                <div class="EdicaoNome">
+                    <div>
+                        <span class="Nome">Nome</span>
+                        <input value="@User.Nome" name="Nome" type="text">
+                        <p class="FraseDias">Ajude as pessoas a descobrir sua conta usando o nome pelo qual você é
+                            conhecido: seu nome completo, apelido ou nome comercial.</p>
+                        <p class="FraseDias">Você pode alterar o seu nome apenas duas vezes a cada 14 dias.</p>
+                    </div>
+                </div>
+
+                <div>
+                    <div>
+                        <span class="NomeUsuario">Nome de usuário</span>
+                        <input value="@User.Username" name="Username" type="text">
+                        <p class="FraseDias">Na maioria dos casos, você poderá alterar seu nome de usuário novamente
+                            para nascimento_tr por
+                            mais 14 dias.</p>
+                        <span class="InfoUsuario">Informações Pessoais</span>
+                        <p class="FraseDias"> Forneça suas informações pessoais, mesmo se a conta for usada para uma
+                            empresa, um animal de
+                            estimação ou outra coisa. Elas não farão parte do seu perfil público.</p>
+                    </div>
+                </div>
+
+                <div class="Email">
+                    <span class="FraseEmail">Email</span>
+                    <input value="@User.Email" name="Email" type="text">
+                </div>
+
+                <div class="erro FraseDias">@TempData.Peek("Mensagem")</div>
+
+                <div class="Botoes">
+                    <button class="Botao3">Voltar</button>
+                    <button class="Botao1">Enviar</button>
+                    <button class="Botao2" asp-area="" asp-controller="EdicaoPerfil" asp-action="Deletar">Desativar
+                        minha conta definitivamente</button>
+                </div>
+            </form>
+        </div>
+
+
+    </div>
+</main>

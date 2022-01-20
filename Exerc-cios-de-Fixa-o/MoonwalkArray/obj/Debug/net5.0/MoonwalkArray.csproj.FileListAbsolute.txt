@@ -1,0 +1,16 @@
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosFixação\MoonwalkArray\bin\Debug\net5.0\MoonwalkArray.exe
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosFixação\MoonwalkArray\bin\Debug\net5.0\MoonwalkArray.deps.json
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosFixação\MoonwalkArray\bin\Debug\net5.0\MoonwalkArray.runtimeconfig.json
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosFixação\MoonwalkArray\bin\Debug\net5.0\MoonwalkArray.runtimeconfig.dev.json
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosFixação\MoonwalkArray\bin\Debug\net5.0\MoonwalkArray.dll
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosFixação\MoonwalkArray\bin\Debug\net5.0\ref\MoonwalkArray.dll
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosFixação\MoonwalkArray\bin\Debug\net5.0\MoonwalkArray.pdb
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosFixação\MoonwalkArray\obj\Debug\net5.0\MoonwalkArray.csprojAssemblyReference.cache
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosFixação\MoonwalkArray\obj\Debug\net5.0\MoonwalkArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosFixação\MoonwalkArray\obj\Debug\net5.0\MoonwalkArray.AssemblyInfoInputs.cache
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosFixação\MoonwalkArray\obj\Debug\net5.0\MoonwalkArray.AssemblyInfo.cs
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosFixação\MoonwalkArray\obj\Debug\net5.0\MoonwalkArray.csproj.CoreCompileInputs.cache
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosFixação\MoonwalkArray\obj\Debug\net5.0\MoonwalkArray.dll
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosFixação\MoonwalkArray\obj\Debug\net5.0\ref\MoonwalkArray.dll
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosFixação\MoonwalkArray\obj\Debug\net5.0\MoonwalkArray.pdb
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosFixação\MoonwalkArray\obj\Debug\net5.0\MoonwalkArray.genruntimeconfig.cache

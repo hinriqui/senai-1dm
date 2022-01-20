@@ -1,0 +1,16 @@
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosFixação\DevoVotar\bin\Debug\net5.0\DevoVotar.exe
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosFixação\DevoVotar\bin\Debug\net5.0\DevoVotar.deps.json
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosFixação\DevoVotar\bin\Debug\net5.0\DevoVotar.runtimeconfig.json
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosFixação\DevoVotar\bin\Debug\net5.0\DevoVotar.runtimeconfig.dev.json
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosFixação\DevoVotar\bin\Debug\net5.0\DevoVotar.dll
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosFixação\DevoVotar\bin\Debug\net5.0\ref\DevoVotar.dll
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosFixação\DevoVotar\bin\Debug\net5.0\DevoVotar.pdb
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosFixação\DevoVotar\obj\Debug\net5.0\DevoVotar.csprojAssemblyReference.cache
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosFixação\DevoVotar\obj\Debug\net5.0\DevoVotar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosFixação\DevoVotar\obj\Debug\net5.0\DevoVotar.AssemblyInfoInputs.cache
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosFixação\DevoVotar\obj\Debug\net5.0\DevoVotar.AssemblyInfo.cs
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosFixação\DevoVotar\obj\Debug\net5.0\DevoVotar.csproj.CoreCompileInputs.cache
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosFixação\DevoVotar\obj\Debug\net5.0\DevoVotar.dll
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosFixação\DevoVotar\obj\Debug\net5.0\ref\DevoVotar.dll
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosFixação\DevoVotar\obj\Debug\net5.0\DevoVotar.pdb
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosFixação\DevoVotar\obj\Debug\net5.0\DevoVotar.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosPortugol\AjusteSalário\bin\Debug\net5.0\AjusteSalário.exe
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosPortugol\AjusteSalário\bin\Debug\net5.0\AjusteSalário.deps.json
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosPortugol\AjusteSalário\bin\Debug\net5.0\AjusteSalário.runtimeconfig.json
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosPortugol\AjusteSalário\bin\Debug\net5.0\AjusteSalário.runtimeconfig.dev.json
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosPortugol\AjusteSalário\bin\Debug\net5.0\AjusteSalário.dll
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosPortugol\AjusteSalário\bin\Debug\net5.0\ref\AjusteSalário.dll
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosPortugol\AjusteSalário\bin\Debug\net5.0\AjusteSalário.pdb
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosPortugol\AjusteSalário\obj\Debug\net5.0\AjusteSalário.csprojAssemblyReference.cache
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosPortugol\AjusteSalário\obj\Debug\net5.0\AjusteSalário.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosPortugol\AjusteSalário\obj\Debug\net5.0\AjusteSalário.AssemblyInfoInputs.cache
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosPortugol\AjusteSalário\obj\Debug\net5.0\AjusteSalário.AssemblyInfo.cs
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosPortugol\AjusteSalário\obj\Debug\net5.0\AjusteSalário.csproj.CoreCompileInputs.cache
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosPortugol\AjusteSalário\obj\Debug\net5.0\AjusteSalário.dll
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosPortugol\AjusteSalário\obj\Debug\net5.0\ref\AjusteSalário.dll
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosPortugol\AjusteSalário\obj\Debug\net5.0\AjusteSalário.pdb
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosPortugol\AjusteSalário\obj\Debug\net5.0\AjusteSalário.genruntimeconfig.cache

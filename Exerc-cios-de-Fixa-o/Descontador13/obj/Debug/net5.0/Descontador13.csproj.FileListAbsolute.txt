@@ -1,0 +1,16 @@
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosFixação\Descontador13\bin\Debug\net5.0\Descontador13.exe
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosFixação\Descontador13\bin\Debug\net5.0\Descontador13.deps.json
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosFixação\Descontador13\bin\Debug\net5.0\Descontador13.runtimeconfig.json
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosFixação\Descontador13\bin\Debug\net5.0\Descontador13.runtimeconfig.dev.json
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosFixação\Descontador13\bin\Debug\net5.0\Descontador13.dll
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosFixação\Descontador13\bin\Debug\net5.0\ref\Descontador13.dll
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosFixação\Descontador13\bin\Debug\net5.0\Descontador13.pdb
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosFixação\Descontador13\obj\Debug\net5.0\Descontador13.csprojAssemblyReference.cache
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosFixação\Descontador13\obj\Debug\net5.0\Descontador13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosFixação\Descontador13\obj\Debug\net5.0\Descontador13.AssemblyInfoInputs.cache
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosFixação\Descontador13\obj\Debug\net5.0\Descontador13.AssemblyInfo.cs
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosFixação\Descontador13\obj\Debug\net5.0\Descontador13.csproj.CoreCompileInputs.cache
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosFixação\Descontador13\obj\Debug\net5.0\Descontador13.dll
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosFixação\Descontador13\obj\Debug\net5.0\ref\Descontador13.dll
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosFixação\Descontador13\obj\Debug\net5.0\Descontador13.pdb
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosFixação\Descontador13\obj\Debug\net5.0\Descontador13.genruntimeconfig.cache

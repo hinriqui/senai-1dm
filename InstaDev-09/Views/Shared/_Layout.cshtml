@@ -1,0 +1,63 @@
+﻿<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - InstaDev</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/style.css" />
+</head>
+
+<body>
+
+    @if (ViewBag.User != null)
+    {
+        <header>
+
+            @{
+                Usuario u = new Usuario();
+                Usuario User = u.UsuarioSessao(ViewBag.User);
+            }
+
+            <div class="container">
+
+                <nav class="divisaoHeader">
+
+                    <a asp-area="" asp-controller="Feed" asp-action="Index"><h2 class="instadevtexto">InstaDev</h2></a>
+
+                    <div class="inputPesquisa">
+                        <input class="pesquisa" type="text" placeholder="☕ Pesquisa"></input>
+                    </div>
+
+                    <div class="icones">
+
+                        <a asp-area="" asp-controller="Feed" asp-action="Index"><img src="~/images/Vectorcasinha.svg" alt="" class="icones_tamanho"></a>
+                        <img src="~/images/plane.svg" alt="" class="icones_tamanho">
+                        <img src="~/images/bussolnha.svg" alt="" class="icones_tamanho">
+                        <img src="~/images/coracao.svg" alt="coracao" class="icones_tamanho">
+                        <a asp-area="" asp-controller="Perfil" asp-action="Index"><img class="icone_perfil" src="~/images/perfis/@User.Foto" alt=""></a>
+
+                    </div>
+
+                </nav>
+
+            </div>
+        </header>
+    }
+
+    <div>
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    @* <footer></footer> *@
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+
+</html>

@@ -1,0 +1,16 @@
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ListaExercícios\Senha!=Usuário\bin\Debug\net5.0\Senha!=Usuário.exe
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ListaExercícios\Senha!=Usuário\bin\Debug\net5.0\Senha!=Usuário.deps.json
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ListaExercícios\Senha!=Usuário\bin\Debug\net5.0\Senha!=Usuário.runtimeconfig.json
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ListaExercícios\Senha!=Usuário\bin\Debug\net5.0\Senha!=Usuário.runtimeconfig.dev.json
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ListaExercícios\Senha!=Usuário\bin\Debug\net5.0\Senha!=Usuário.dll
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ListaExercícios\Senha!=Usuário\bin\Debug\net5.0\ref\Senha!=Usuário.dll
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ListaExercícios\Senha!=Usuário\bin\Debug\net5.0\Senha!=Usuário.pdb
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ListaExercícios\Senha!=Usuário\obj\Debug\net5.0\Senha!=Usuário.csprojAssemblyReference.cache
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ListaExercícios\Senha!=Usuário\obj\Debug\net5.0\Senha!=Usuário.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ListaExercícios\Senha!=Usuário\obj\Debug\net5.0\Senha!=Usuário.AssemblyInfoInputs.cache
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ListaExercícios\Senha!=Usuário\obj\Debug\net5.0\Senha!=Usuário.AssemblyInfo.cs
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ListaExercícios\Senha!=Usuário\obj\Debug\net5.0\Senha!=Usuário.csproj.CoreCompileInputs.cache
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ListaExercícios\Senha!=Usuário\obj\Debug\net5.0\Senha!=Usuário.dll
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ListaExercícios\Senha!=Usuário\obj\Debug\net5.0\ref\Senha!=Usuário.dll
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ListaExercícios\Senha!=Usuário\obj\Debug\net5.0\Senha!=Usuário.pdb
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ListaExercícios\Senha!=Usuário\obj\Debug\net5.0\Senha!=Usuário.genruntimeconfig.cache

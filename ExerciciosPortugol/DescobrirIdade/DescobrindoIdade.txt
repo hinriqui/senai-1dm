@@ -1,0 +1,15 @@
+DESCOBRINDO IDADE
+programa {
+    inteiro anoNasc
+    inteiro idade
+    inteiro semanas
+	funcao inicio() {
+	escreva("Que ano você nasceu?" + "\n")
+    leia(anoNasc)
+
+    idade = 2021 - anoNasc
+    semanas = idade * 52
+
+    escreva("Certo. Logo você tem " + idade + " anos. Ou se você preferir " + semanas + " semanas." + "\n")
+	}
+}

@@ -1,0 +1,976 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Grand+Hotel&display=swap%27');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    width: 935px;
+    margin: 0 auto;
+}
+
+header{
+    background-color: #ffffff;
+    height: 60px;
+    width: 100%;
+    top: 0;
+    /* border-color: black; */
+    /* border-bottom-style: solid;
+    border-bottom-width: 1px; */
+    /* z-index: 99; */
+
+    border-bottom: 1px solid #F1F1F1;
+}
+
+.divisaoHeader{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.inputPesquisa{
+    width: 215px;
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.pesquisa{
+    height: 28px;
+    width: 215px;
+    left: 852px;
+    top: 12px;
+    border: 1px solid #DCDCDC;
+    background: #FAFAFA;
+    border-radius: 2px;
+    text-align-last: center;
+}
+
+.instadevtexto{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-family: 'Grand Hotel', cursive;
+    font-weight: 800;
+    font-size: 40px;
+    width: 200px;
+    margin-bottom: 0;
+    text-decoration: none;
+    color: black;
+}
+
+
+.icones{
+    width: 190px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content:space-evenly;
+}
+
+.icone_perfil{
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.icones_tamanho{
+    width: 20px;
+    height: 20px;
+}
+
+
+body{
+    background-color: rgb(235, 233, 233);
+}
+
+.mainLogin{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 60px;
+}
+
+.instadevtexto2{
+    display: flex;
+    justify-content: center; 
+    margin-top: 33px;
+    margin-bottom: 24px;
+} 
+
+.tabelaLogin{
+    background-color: rgb(255, 255, 255);
+    width: 342px;
+    height: 450px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-bottom: 10px;
+}
+.formLogin{
+    background-color: rgb(255, 255, 255);
+    width: 342px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.inputLogin{
+    height: 35px;
+    width: 267px;
+    color: black;
+    margin-bottom: 9px;
+    padding-left: 12px;
+}
+
+.buttonLogin{
+    background: #2686CC;
+    width: 267px;
+    height: 30px;
+    margin-top: 8px;
+    border: none;
+    color: white;
+    border-radius: 5px;
+}
+
+.buttonLogin:hover{
+    background: #00406d;
+}
+.buttonLogin:disabled{
+        opacity: 0.6;
+        cursor: not-allowed;
+}
+
+.divisaoDaDiv{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    
+}
+
+.ou{
+    margin: 0px 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: grey;
+}
+
+.divisao{
+    background: grey;
+    height: 0px;
+    width: 109px;
+}
+
+.esqueceu{
+    text-decoration: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #2686CC;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 16px;
+
+}
+
+.linkCadas{
+    background-color: white;
+    width: 342px;
+    height: 75px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.linkCadas2{
+    background-color: white;
+    width: 210px;
+    height: 75px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.linkCadas2 a{
+    font-size: 14px;
+    text-decoration: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #2686CC;
+}
+
+.linkCadas2 p{
+    font-size: 14px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+}
+
+.lojas{
+    width: 300px;
+    /* height: 100px; */
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    height: 100px;
+    margin-top: 21px;
+}
+
+.lojas p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+.imagensLoja{
+    display: flex;
+    justify-content: space-evenly;
+}
+/* /-- Pagina Cadastro --/ */
+
+.tabelaCadastro{
+    background-color: rgb(255, 255, 255);
+    width: 342px;
+    height: 465px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.inputCadas{
+    height: 35px;
+    width: 267px;
+    color: black;
+    margin-bottom: 9px;
+    padding-left: 12px;
+}
+
+.buttonCadas{
+    background: #2686CC;
+    width: 267px;
+    height: 30px;
+    margin-top: 8px;
+    border: none;
+    color: white;
+    border-radius: 5px;
+}
+
+.formCadas{
+    background-color: rgb(255, 255, 255);
+    width: 342px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.pCadas{
+    width: 260px;
+    font-size: 12px;
+    color: grey;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 25px 44px 45px; 
+}
+
+.pCadas1{
+    width: 260px;
+    font-size: 15px;
+    color: grey;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-bottom: 10px;
+}
+
+p{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+/* Parte da Livia */
+body{
+    background-color: #fafafa;;
+}
+.container_perfil{
+    align-items: center;
+    display: flex;
+    margin-top: 37px;
+}
+
+.container_perfil img{
+    margin-left: 80px;
+    width: 155px;
+    height: 155px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.informacoes_perfil{
+    margin-left: 100px;
+    width: 385px;
+}
+
+.informacoes_perfil a{
+    text-decoration: none;
+    color: #2686CC;
+}
+
+.username_perfil{
+    font-family: Roboto;
+    font-size: 26px;
+    font-weight: 30px;
+    margin-bottom: 23px;
+}
+
+.informacoes_usuario{
+    font-family: Roboto;
+    font-size: 16px;
+    margin-bottom: 23px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.informacoes_usuario_embaixo{
+    display: flex;
+    justify-content: space-between;
+}
+
+.informacoes_usuario_embaixo a{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+}
+
+.nome_de_usuario{
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: bolder;
+}
+
+hr{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    color: #f5f5f5c9;
+}
+
+.titulo_publicacoes{
+    display: flex;
+    align-items: center;
+    margin-left: 210px;
+    margin-bottom: 45px;
+}
+
+.titulo_publicacoes h2{
+    margin-left: 10px;
+    font-family: Roboto;
+    font-size: 16px;
+    text-transform: uppercase;
+    margin-bottom: 0;
+}
+
+.post_perfil_{
+    display: flex;
+    background-color: #FFFFFF;
+    margin-bottom: 53px;
+}
+
+.imagem_post {
+    display: flex;
+    justify-content: center;
+    overflow: hidden;
+    width: 430px;
+    height: 404px;
+}
+
+.imagem_post img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+}
+
+.conteudo_post{
+    display: flex;
+    flex-direction: column;
+    padding-left: 37px;
+    padding-right: 18px;
+}
+
+.curtidas_comentarios{
+    flex-direction: column;
+    margin-bottom: 23px;
+    font-size: 13px;
+}
+
+.curtidas_comentarios span{
+    margin-top: 6px;
+    margin-bottom: 23px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.caixa_comentarios{
+    width: auto;
+}
+
+.img_comentarios{
+    margin-left: 19px;
+}
+
+.textos_comentarios{
+    display: flex;
+}
+
+.nome_comentarios{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 13px;
+    font-weight: 600;
+    font-weight: bolder;
+    margin-right: 20px;
+}
+
+.comentarios{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 13px;
+    width: 20px;
+}
+
+.conteudo_comentarios{
+    display: flex;
+    align-items: center;
+    margin-bottom: 2px;
+    justify-content: space-between;
+    width: 450px;
+}
+
+.ver_comentarios{
+    margin-top: 8px;
+    margin-bottom: 16px;
+    border: none;
+    color: #909090;
+    font-size: 13px;
+    height: 21px;
+    width: 187px;
+    background: none;
+}
+
+.descricao_usuario_post{
+   display: flex;
+   align-items: center;
+   margin-top: 36px;
+   margin-bottom: 35px;
+}
+
+.descricao_usuario_post img{
+   width: 66px;
+   height: 66px;
+   border-radius: 50%;
+   object-fit: cover;
+}
+
+.texto_descricao_usuario_post{
+    display: flex;
+    flex-direction: column;
+    margin-left: 21px;
+}
+
+.username_post{
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: bolder;
+}
+
+.local_post{
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: normal;
+    margin-bottom: 5px;
+}
+
+.imagensLoja{
+    display: flex;
+    justify-content: space-evenly;
+}
+/* /-- Pagina Cadastro --/ */
+
+.tabelaCadastro{
+    background-color: rgb(255, 255, 255);
+    width: 342px;
+    height: 465px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.inputCadas{
+    height: 35px;
+    width: 267px;
+    color: black;
+    margin-bottom: 9px;
+    padding-left: 12px;
+}
+
+.buttonCadas{
+    background: #2686CC;
+    width: 267px;
+    height: 30px;
+    margin-top: 8px;
+    border: none;
+    color: white;
+    border-radius: 5px;
+}
+
+.formCadas{
+    background-color: rgb(255, 255, 255);
+    width: 342px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.pCadas{
+    width: 260px;
+    font-size: 12px;
+    color: grey;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 25px 44px 45px; 
+}
+
+.pCadas1{
+    width: 260px;
+    font-size: 15px;
+    color: grey;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-bottom: 10px;
+}
+
+p{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.hidden {
+    display: none;
+}
+
+.feed_main{
+    background-color: #fafafa;
+    padding: 24px 0 55px 0;
+    margin-top: 53px;
+}
+
+.flex {
+    display: flex;
+}
+
+.feed {
+    width: 610px;
+}
+
+.block_style {
+    background-color: #FFFFFF;
+    box-sizing: border-box;
+    border: 1px solid #F1F1F1;
+    border-radius: 2px;
+}
+
+.stories {
+    margin-bottom: 38px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    height: 113px;
+}
+
+.stories div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 62px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.stories img {
+    height: 62px;
+    width: 62px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.stories p {
+    font-family: Segoe UI;
+    font-size: 13px;
+    margin: 0 auto 0 auto;
+}
+
+.postar {
+    height: 166px;
+    padding: 20px 30px;
+    margin-bottom: 38px;
+}
+
+.postar div {
+    display: flex;
+    align-items: center;
+}
+
+.postar img {
+    height: 42px;
+    width: 42px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.postar span {
+    font-family: Segoe UI;
+    font-size: 18px;
+    font-weight: 600;
+    margin-left: 18px;
+}
+
+.input_style {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 27px;
+    margin: 24px 10px 0 0;
+    border-radius: 5px;
+    text-align: center;
+    font-family: Segoe UI;
+    font-size: 12px;
+}
+
+.desc_input {
+    width: 231px;
+    background-color: #FAFAFA;
+    border: 1px solid #EAEAEA;
+    color: #ABABAB;
+}
+
+.post_input {
+    width: 157px;
+    background-color: #D1D1D1;
+    color: #7D7D7D;
+}
+
+.post_input :hover{
+    color: rgb(63, 63, 63);
+}
+
+.postar_btn {
+    width: 140px;
+    background-color: #2686CC;
+    border: 0px;
+    color: #FFFFFF;
+}
+
+.post {
+    padding-bottom: 5px;
+    margin-bottom: 55px;
+}
+
+.post_perfil {
+    display: flex;
+    padding: 16px;
+}
+
+.post_perfil img {
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    margin-right: 13px;
+    object-fit: cover;
+}
+
+.post_perfil div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.post_user {
+    font-family: Segoe UI;
+    font-weight: 600;
+    font-size: 13px;
+}
+
+.post_local {
+    font-family: Segoe UI;
+    font-size: 13px;
+}
+
+.post_img {
+    width: 100%;
+}
+
+.post_reagir {
+    padding: 15px 20px;
+}
+
+.reagir_funções {
+    display: flex;
+    align-items: center;
+    margin-bottom: 7px;
+}
+
+.reagir_funções label {
+    margin-right: 20px;
+}
+
+.reagir_funções img {
+    height: 20px;
+}
+
+.reagir_funções input {
+    width: 220px;
+    height: 25px;
+    font-family: Segoe UI;
+    font-size: 12px;
+    color: #AFAFAF;
+    border: 0;
+    border-bottom: 1px solid #DCDCDC;
+}
+
+.post_comentarios {
+    margin-top: 12px;
+}
+
+.post_comentarios div {
+    display: flex;
+}
+
+.post_comentarios div span {
+    margin-right: 5px;
+    margin-bottom: 3px;
+}
+
+.feed_perfil {
+    height: min-content;
+    display: flex;
+    margin: 20px 0 0 32px;
+}
+
+.feed_perfil img {
+    height: 62px;
+    width: 62px;
+    object-fit: cover;
+    border-radius: 50%;
+}
+
+.feed_perfil div {
+    display: flex;
+    margin-left: 21px;
+    flex-direction: column;
+    justify-content: center;
+    color: black;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.feed_perfil span {
+    font-family: Segoe UI;
+    font-weight: 600;
+    font-size: 16px;
+    text-decoration: none;
+}
+
+.feed_perfil p {
+    font-family: Segoe UI;
+    font-size: 16px;
+    text-align: initial;
+    height: 0px;
+}
+
+.Main{
+    width: 935px;
+    height: 660px;
+    background: #FFFFFF;
+    border: 1px solid #F1F1F1;
+    display: flex; 
+    margin-top: 40px;
+}
+.EdicaoEsquerda{
+    display: flex;
+    margin-left: 29px;
+    margin-right: 204px;
+    padding-top: 19px;
+    
+}
+.EdicaoDireita{
+    border-left: 1px solid #F1F1F1;
+    box-sizing: border-box; 
+    padding-top: 19px;
+}
+.EditarPerfil{
+    width: 79px;
+    height: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 15px;
+    
+}
+.Linha{
+    width: 100px;
+    border: 1px solid #000000;
+    transform: rotate(90deg); 
+    margin-left: 10px;
+    
+
+}
+.AlteraçãoPerfil{
+   display: flex;  
+}
+.FotoPerfil{
+    margin-left: 100px;
+}
+.FotoPerfil img{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+.TextoPerfil{
+    margin-left: 21px;
+    display: flex;
+    flex-direction: column;
+}
+.NomePerfil{
+    width: 209px;
+    height: 24px; 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 600;
+    font-size: 18px;
+    
+}
+.AlterarPerfil{
+    color: #2686CC;
+    width: 209px;
+    height: 19px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+}
+.EdicaoNome{
+    margin-top: 20px;
+}
+
+.FraseDias{
+    text-align: justify;
+    margin-top: 10px;
+    margin-left: 164px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    height: 48px;
+    color:  #909090; 
+    width: 354px;
+    height: 48px;
+}
+
+.NomeUsuario{
+    margin-left:41px ;
+}
+span{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px; 
+    height: 19px;
+    color: #000000;
+    margin-right: 10px;
+}
+
+.InfoUsuario{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    height: 48px;
+    color:  #909090; 
+    margin-left: 164px;
+}
+
+.Email{
+    margin-top: 10px;
+}
+.FraseEmail{
+    margin-left: 114px;
+}
+input{
+    background: #FFFFFF;
+    border: 1px solid #DCDCDC;
+    box-sizing: border-box;
+    border-radius: 2px;
+    width: 354px;
+    height: 30px;
+    padding-left: 7px;
+}
+.Botoes{
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 165px;
+    
+}
+.Botao1{
+    background: #2686CC;
+    border-radius: 2px;
+    border: none;
+    width: 66px;
+    height: 30px;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    color: #FFFFFF;
+   
+}
+
+.Botao2{
+    border: none;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #2686CC;
+    background: #ffffff;
+    
+}
+
+.Botao3{
+    background: #2686CC;
+    border-radius: 2px;
+    border: none;
+    width: 66px;
+    height: 30px;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    color: #FFFFFF;
+   
+}
+
+.Nome{
+    margin-left: 111px;
+}
+
+/* aqui é a pagina de erro */
+
+.erro{
+    width: 200px;
+    font-size: small;
+    color: red;
+}

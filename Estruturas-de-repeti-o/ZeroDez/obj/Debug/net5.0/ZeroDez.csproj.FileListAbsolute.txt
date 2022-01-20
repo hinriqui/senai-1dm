@@ -1,0 +1,16 @@
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ListaExercícios\ZeroDez\bin\Debug\net5.0\ZeroDez.exe
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ListaExercícios\ZeroDez\bin\Debug\net5.0\ZeroDez.deps.json
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ListaExercícios\ZeroDez\bin\Debug\net5.0\ZeroDez.runtimeconfig.json
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ListaExercícios\ZeroDez\bin\Debug\net5.0\ZeroDez.runtimeconfig.dev.json
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ListaExercícios\ZeroDez\bin\Debug\net5.0\ZeroDez.dll
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ListaExercícios\ZeroDez\bin\Debug\net5.0\ref\ZeroDez.dll
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ListaExercícios\ZeroDez\bin\Debug\net5.0\ZeroDez.pdb
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ListaExercícios\ZeroDez\obj\Debug\net5.0\ZeroDez.csprojAssemblyReference.cache
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ListaExercícios\ZeroDez\obj\Debug\net5.0\ZeroDez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ListaExercícios\ZeroDez\obj\Debug\net5.0\ZeroDez.AssemblyInfoInputs.cache
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ListaExercícios\ZeroDez\obj\Debug\net5.0\ZeroDez.AssemblyInfo.cs
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ListaExercícios\ZeroDez\obj\Debug\net5.0\ZeroDez.csproj.CoreCompileInputs.cache
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ListaExercícios\ZeroDez\obj\Debug\net5.0\ZeroDez.dll
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ListaExercícios\ZeroDez\obj\Debug\net5.0\ref\ZeroDez.dll
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ListaExercícios\ZeroDez\obj\Debug\net5.0\ZeroDez.pdb
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ListaExercícios\ZeroDez\obj\Debug\net5.0\ZeroDez.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Henrique\.vscode\codes\Back-end\C#\JogadorVelho\bin\Debug\net5.0\JogadorVelho.exe
+C:\Users\Henrique\.vscode\codes\Back-end\C#\JogadorVelho\bin\Debug\net5.0\JogadorVelho.deps.json
+C:\Users\Henrique\.vscode\codes\Back-end\C#\JogadorVelho\bin\Debug\net5.0\JogadorVelho.runtimeconfig.json
+C:\Users\Henrique\.vscode\codes\Back-end\C#\JogadorVelho\bin\Debug\net5.0\JogadorVelho.runtimeconfig.dev.json
+C:\Users\Henrique\.vscode\codes\Back-end\C#\JogadorVelho\bin\Debug\net5.0\JogadorVelho.dll
+C:\Users\Henrique\.vscode\codes\Back-end\C#\JogadorVelho\bin\Debug\net5.0\ref\JogadorVelho.dll
+C:\Users\Henrique\.vscode\codes\Back-end\C#\JogadorVelho\bin\Debug\net5.0\JogadorVelho.pdb
+C:\Users\Henrique\.vscode\codes\Back-end\C#\JogadorVelho\obj\Debug\net5.0\JogadorVelho.csprojAssemblyReference.cache
+C:\Users\Henrique\.vscode\codes\Back-end\C#\JogadorVelho\obj\Debug\net5.0\JogadorVelho.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Henrique\.vscode\codes\Back-end\C#\JogadorVelho\obj\Debug\net5.0\JogadorVelho.AssemblyInfoInputs.cache
+C:\Users\Henrique\.vscode\codes\Back-end\C#\JogadorVelho\obj\Debug\net5.0\JogadorVelho.AssemblyInfo.cs
+C:\Users\Henrique\.vscode\codes\Back-end\C#\JogadorVelho\obj\Debug\net5.0\JogadorVelho.csproj.CoreCompileInputs.cache
+C:\Users\Henrique\.vscode\codes\Back-end\C#\JogadorVelho\obj\Debug\net5.0\JogadorVelho.dll
+C:\Users\Henrique\.vscode\codes\Back-end\C#\JogadorVelho\obj\Debug\net5.0\ref\JogadorVelho.dll
+C:\Users\Henrique\.vscode\codes\Back-end\C#\JogadorVelho\obj\Debug\net5.0\JogadorVelho.pdb
+C:\Users\Henrique\.vscode\codes\Back-end\C#\JogadorVelho\obj\Debug\net5.0\JogadorVelho.genruntimeconfig.cache

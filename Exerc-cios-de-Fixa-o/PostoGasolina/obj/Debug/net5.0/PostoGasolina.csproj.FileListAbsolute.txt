@@ -1,0 +1,16 @@
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosFixação\PostoGasolina\bin\Debug\net5.0\PostoGasolina.exe
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosFixação\PostoGasolina\bin\Debug\net5.0\PostoGasolina.deps.json
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosFixação\PostoGasolina\bin\Debug\net5.0\PostoGasolina.runtimeconfig.json
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosFixação\PostoGasolina\bin\Debug\net5.0\PostoGasolina.runtimeconfig.dev.json
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosFixação\PostoGasolina\bin\Debug\net5.0\PostoGasolina.dll
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosFixação\PostoGasolina\bin\Debug\net5.0\ref\PostoGasolina.dll
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosFixação\PostoGasolina\bin\Debug\net5.0\PostoGasolina.pdb
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosFixação\PostoGasolina\obj\Debug\net5.0\PostoGasolina.csprojAssemblyReference.cache
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosFixação\PostoGasolina\obj\Debug\net5.0\PostoGasolina.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosFixação\PostoGasolina\obj\Debug\net5.0\PostoGasolina.AssemblyInfoInputs.cache
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosFixação\PostoGasolina\obj\Debug\net5.0\PostoGasolina.AssemblyInfo.cs
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosFixação\PostoGasolina\obj\Debug\net5.0\PostoGasolina.csproj.CoreCompileInputs.cache
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosFixação\PostoGasolina\obj\Debug\net5.0\PostoGasolina.dll
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosFixação\PostoGasolina\obj\Debug\net5.0\ref\PostoGasolina.dll
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosFixação\PostoGasolina\obj\Debug\net5.0\PostoGasolina.pdb
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosFixação\PostoGasolina\obj\Debug\net5.0\PostoGasolina.genruntimeconfig.cache

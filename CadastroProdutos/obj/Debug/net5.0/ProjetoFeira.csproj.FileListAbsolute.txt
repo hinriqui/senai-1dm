@@ -1,0 +1,16 @@
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ProjetoFeira\bin\Debug\net5.0\ProjetoFeira.exe
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ProjetoFeira\bin\Debug\net5.0\ProjetoFeira.deps.json
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ProjetoFeira\bin\Debug\net5.0\ProjetoFeira.runtimeconfig.json
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ProjetoFeira\bin\Debug\net5.0\ProjetoFeira.runtimeconfig.dev.json
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ProjetoFeira\bin\Debug\net5.0\ProjetoFeira.dll
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ProjetoFeira\bin\Debug\net5.0\ref\ProjetoFeira.dll
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ProjetoFeira\bin\Debug\net5.0\ProjetoFeira.pdb
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ProjetoFeira\obj\Debug\net5.0\ProjetoFeira.csprojAssemblyReference.cache
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ProjetoFeira\obj\Debug\net5.0\ProjetoFeira.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ProjetoFeira\obj\Debug\net5.0\ProjetoFeira.AssemblyInfoInputs.cache
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ProjetoFeira\obj\Debug\net5.0\ProjetoFeira.AssemblyInfo.cs
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ProjetoFeira\obj\Debug\net5.0\ProjetoFeira.csproj.CoreCompileInputs.cache
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ProjetoFeira\obj\Debug\net5.0\ProjetoFeira.dll
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ProjetoFeira\obj\Debug\net5.0\ref\ProjetoFeira.dll
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ProjetoFeira\obj\Debug\net5.0\ProjetoFeira.pdb
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ProjetoFeira\obj\Debug\net5.0\ProjetoFeira.genruntimeconfig.cache

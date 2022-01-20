@@ -1,0 +1,33 @@
+﻿@{
+    ViewData["Title"] = "Home";
+}
+<div class="mainLogin container">
+        <section class="tabelaLogin">
+                <img class="instadevtexto2" src="~/images/Instadev.svg">
+                <form class="formLogin" method="POST" action='@Url.Action("Logar")'>
+                    <input class="inputLogin" type="email" name="Email" placeholder="Email"> 
+                    <input class="inputLogin" type="password" name="Senha" placeholder="Senha">
+                    <div class="erro">@TempData.Peek("Mensagem")</div>
+                    <button class="buttonLogin" type="submit">Entrar</button>
+                </form>
+                <div class="divisaoDaDiv">
+                    <hr class="divisao">
+                    <p class="ou">OU</p>
+                    <hr class="divisao">
+                </div>
+                <a class="esqueceu" href="#">Esqueceu a senha?</a>
+        </section>
+        <section class="linkCadas">
+            <div class="linkCadas2">
+                <p>Não tem uma conta?</p>
+                <a asp-area="" asp-controller="Cadastro" asp-action="Index"> Cadastre-se</a>
+            </div>
+        </section>
+        <section class="lojas">
+            <p>Obtenha o aplicativo</p>
+            <div class="imagensLoja">
+                <img src="~/images/app_store 1Apple.svg" alt="">
+                <img src="~/images/google_play 1google.svg" alt="">
+            </div>
+        </section>
+    </div>

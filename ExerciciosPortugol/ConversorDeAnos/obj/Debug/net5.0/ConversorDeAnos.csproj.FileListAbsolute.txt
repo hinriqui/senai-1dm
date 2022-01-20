@@ -1,0 +1,16 @@
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosPortugol\ConversorDeAnos\bin\Debug\net5.0\ConversorDeAnos.exe
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosPortugol\ConversorDeAnos\bin\Debug\net5.0\ConversorDeAnos.deps.json
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosPortugol\ConversorDeAnos\bin\Debug\net5.0\ConversorDeAnos.runtimeconfig.json
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosPortugol\ConversorDeAnos\bin\Debug\net5.0\ConversorDeAnos.runtimeconfig.dev.json
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosPortugol\ConversorDeAnos\bin\Debug\net5.0\ConversorDeAnos.dll
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosPortugol\ConversorDeAnos\bin\Debug\net5.0\ref\ConversorDeAnos.dll
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosPortugol\ConversorDeAnos\bin\Debug\net5.0\ConversorDeAnos.pdb
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosPortugol\ConversorDeAnos\obj\Debug\net5.0\ConversorDeAnos.csprojAssemblyReference.cache
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosPortugol\ConversorDeAnos\obj\Debug\net5.0\ConversorDeAnos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosPortugol\ConversorDeAnos\obj\Debug\net5.0\ConversorDeAnos.AssemblyInfoInputs.cache
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosPortugol\ConversorDeAnos\obj\Debug\net5.0\ConversorDeAnos.AssemblyInfo.cs
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosPortugol\ConversorDeAnos\obj\Debug\net5.0\ConversorDeAnos.csproj.CoreCompileInputs.cache
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosPortugol\ConversorDeAnos\obj\Debug\net5.0\ConversorDeAnos.dll
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosPortugol\ConversorDeAnos\obj\Debug\net5.0\ref\ConversorDeAnos.dll
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosPortugol\ConversorDeAnos\obj\Debug\net5.0\ConversorDeAnos.pdb
+C:\Users\Henrique\.vscode\codes\Back-end\C#\ExercíciosPortugol\ConversorDeAnos\obj\Debug\net5.0\ConversorDeAnos.genruntimeconfig.cache

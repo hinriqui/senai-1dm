@@ -1,0 +1,152 @@
+@using Microsoft.AspNetCore.Http
+@{
+    ViewData["Title"] = "Feed";
+    Usuario u = new Usuario();
+    Post p = new Post();
+
+    List<Usuario> Stories = ViewBag.Stories;
+    Usuario User = u.UsuarioSessao(ViewBag.User);
+    ViewBag.Post.Reverse();
+}
+
+<main class="feed_main">
+    <div class="container flex">
+
+        <div class="feed">
+            <div class="stories block_style">
+
+                <div>
+                    <img src="~/images/perfis/@Stories[0].Foto" alt="Foto do @Stories[0].Nome">
+                    <p>@Stories[0].Username</p>
+                </div>
+
+                <div>
+                    <img src="~/images/perfis/@Stories[1].Foto" alt="Foto do @Stories[1].Nome">
+                    <p>@Stories[1].Username</p>
+                </div>
+
+                <div>
+                    <img src="~/images/perfis/@Stories[2].Foto" alt="Foto do @Stories[2].Nome">
+                    <p>@Stories[2].Username</p>
+                </div>
+
+                <div>
+                    <img src="~/images/perfis/@Stories[3].Foto" alt="Foto do @Stories[3].Nome">
+                    <p>@Stories[3].Username</p>
+                </div>
+
+                <div>
+                    <img src="~/images/perfis/@Stories[4].Foto" alt="Foto do @Stories[4].Nome">
+                    <p>@Stories[4].Username</p>
+                </div>
+
+                <div>
+                    <img src="~/images/perfis/@Stories[5].Foto" alt="Foto do @Stories[5].Nome">
+                    <p>@Stories[5].Username</p>
+                </div>
+
+                <div>
+                    <img src="~/images/perfis/@Stories[6].Foto" alt="Foto do @Stories[6].Nome">
+                    <p>@Stories[6].Username</p>
+                </div>
+
+            </div>
+
+            <div class="postar block_style">
+
+                <div>
+                    <img src="~/images/perfis/@User.Foto" alt="Sua foto de perfil">
+                    <span>Postar</span>
+                </div>
+
+                <form method="POST" action='@Url.Action("Postar")' enctype="multipart/form-data">
+
+                    <div>
+
+                        <input class="input_style desc_input" type="text" name="Descricao" placeholder="Digite a descrição da imagem...">
+
+                        <input hidden id="postar_img" type="file" name="Imagem" accept="image/*">
+                        <label class="input_style post_input" for="postar_img">Escolha a imagem</label>
+
+                        <input class="input_style postar_btn" type="submit" value="Postar">
+
+                    </div>
+
+                </form>
+
+                <div class="erro">@TempData.Peek("Mensagem")</div>
+
+            </div>
+
+            @foreach (var item in ViewBag.Post)
+            {
+                <div class="post block_style">
+
+                    <div class="post_perfil">
+                        <img src="~/images/perfis/@item.Foto" alt="Sua foto de perfil">
+                        <div>
+                            <span class="post_user">@item.Username</span>
+                            <span class="post_local">São Paulo, SP</span>
+                        </div>
+                    </div>
+
+                    <img class="post_img" src="~/images/posts/@item.Imagem" alt="">
+
+                    <div class="post_reagir">
+                        <div class="reagir_funções">
+                            <label for="">
+                                <img src="~/images/icons/coração.png" alt="Gostar">
+                            </label>
+
+                            <label for="comentar">
+                                <img src="~/images/icons/balão.png" alt="Comentar">
+                            </label>
+
+                            <input id="comentar" type="text" placeholder="Comentar...">
+                        </div>
+
+                        <span class="post_local">2077 curtidas</span>
+
+                        <div class="post_comentarios">
+                            <div>
+                                <span class="post_user">@item.Username</span>
+                                <p class="post_local">@item.Descricao</p>
+                            </div>
+
+                            <div>
+                                <span class="post_user">obotdaliviaoficial</span>
+                                <p class="post_local">KKKKKKKKKKKK</p>
+                            </div>
+                            <div>
+                                <span class="post_user">MCTelesOFICIAL</span>
+                                <p class="post_local">mó cocão em novinha🔥</p>
+                            </div>
+
+                            <div>
+                                <span class="post_user">hinriqui</span>
+                                <p class="post_local">baby, baby🎵</p>
+                            </div>
+
+                            <div>
+                                <span class="post_user">lino</span>
+                                <p class="post_local">VOCÊ FOI PRESENTEADO COM R$10.000,00 - ACESSE --> <a>www.clonacartao.com</a></p>
+                            </div>
+
+                        </div>
+                    </div>
+
+                </div>
+            }
+
+        </div>
+
+        <a asp-area="" asp-controller="Perfil" asp-action="Index" class="feed_perfil">
+            <img src="~/images/perfis/@User.Foto" alt="Sua foto de perfil">
+            <div>
+                <span>@User.Username</span>
+                <p>@User.Nome</p>
+            </div>
+        </a>
+
+    </div>
+</main>

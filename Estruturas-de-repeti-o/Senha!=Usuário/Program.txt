@@ -1,0 +1,25 @@
+programa {
+	funcao inicio() {
+		faca
+            {
+                caracter usuario, senha
+                logico validade = falso
+                
+                escreva("Nome de usuario: ")
+                leia(usuario)
+
+                escreva("Senha: ")
+                leia(senha)
+
+                se (usuario == senha)
+                {
+                    escreva("Erro. Usúario e senha precisam ser diferentes.")
+					validade = falso
+                }
+                senao
+                {
+                    validade = verdadeiro
+                }
+            } enquanto (validade = falso)
+	}
+}
